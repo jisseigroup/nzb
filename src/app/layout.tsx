@@ -22,6 +22,10 @@ export const metadata: Metadata = {
   },
   description:
     "Premium burgers at Paramount Spectrum, Crossing Republik. Delivery & takeaway from 12 noon. Order on Zomato, Swiggy, or call +91 88033 39339.",
+  icons: {
+    icon: [{ url: "/brand/logo.png", type: "image/png" }],
+    apple: "/brand/logo.png",
+  },
   openGraph: {
     title: "Bigg Burger New Zealand",
     description:
